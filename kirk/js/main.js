@@ -16,3 +16,6 @@ myApp.controller('myCtrl', function($scope){
 
 })
 
+// ref.onAuth(function(authData) {
+    
+// })
